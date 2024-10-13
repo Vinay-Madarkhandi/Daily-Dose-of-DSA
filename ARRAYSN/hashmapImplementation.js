@@ -62,3 +62,5 @@ hashExample.delete(12);
 
 // showing table after deletion
 console.log(hashExample.table);
+console.log(hashExample);
+console.log(hashExample.size);
